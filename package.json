@@ -1,0 +1,16 @@
+{
+  "name": "dejiflutterwavenode",
+  "version": "1.0.0",
+  "description": "Flutterwave Library for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deji Odetayo",
+  "license": "MIT",
+  "devDependencies": {
+    "axios": "^0.21.0",
+    "dotenv": "^8.2.0",
+    "node-forge": "^0.10.0"
+  }
+}
